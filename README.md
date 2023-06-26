@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ruben-van-Breda
 - 👀 I’m interested in Software and Robotics
-- 🌱 I’m studying Computer Science at UCD
+- 🌱 I’m Computer Science Graduate at UCD
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/ruben-van-breda-937890218
 - 🌍 Pesonal Code snippits: https://thedreamingreality.wixsite.com/ruben
